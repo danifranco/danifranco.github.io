@@ -4,11 +4,9 @@
 #  quote: >
 #
   description: | # this will include new lines to allow paragraphs
-    MitoEM Dataset: Large-scale 3D Mitochondria Instance Segmentation from EM Images
+    <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> MitoEM Dataset: Large-scale 3D Mitochondria Instance Segmentation from EM Images
 
-    <span style="color:rgb(50, 113, 165)">Donglai Wei, Zudi Lin, <mark>Daniel Franco-Barranco</mark>, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang, Aarush Gupta, Won-Dong Jang, Xueying Wang, Ignacio Arganda-Carreras, Jeff W. Lichtman, Hanspeter Pfister</span>
-
-        
+    <span style="color:rgb(50, 113, 165)">Donglai Wei, Zudi Lin, <mark>Daniel Franco-Barranco</mark>, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang, Aarush Gupta, Won-Dong Jang, Xueying Wang, Ignacio Arganda-Carreras, Jeff W. Lichtman, Hanspeter Pfister</span> 
 
     <a class="button pub" href="https://donglaiw.github.io/page/mitoEM/index.html">Details</a>
     <a class="button pub" href="danifranco.github.io/publication/MICCAI_2020/wei2020mitoem.bib" download>BibTeX</a>
