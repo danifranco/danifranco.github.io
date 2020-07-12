@@ -1,38 +1,38 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository: danifranco/danifranco.github.io
+#favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Daniel Franco-Barranco
+title: HPC resources technician and PhD Student 
+email: daniel.franco@dipc.org
+website: www.github.com/danifranco
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: danifranco93
+github_username:  danifranco
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: danifranco1993
+linkedin_username: daniel-franco-barranco-99936596
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Daniel and I'm half-time <mark>HPC resources technician</mark> at Donostia International Physics Center (DIPC), being part of the management and configuration of the biggest cluster of the Basque Country. The other half of my workday I'm a <mark>PhD Student</mark> at the University of the Basque Country, together with the DIPC, supervised by Ignacio Arganda-Carreras and Arrate Muñoz-Barrutia. 
+  
+  My general research area is in Biomedical image processing and Computer Vision, focused in the design and development of novel Deep Learning solutions for the segmentation of organelles in large Electron microscope images and across microscope types and modalities.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+# Experience Section
+experience_title: Publications
 
 # Projects Section
 # projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
 
 # Education Section
 # educaton_title: Education
@@ -40,17 +40,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+#theme: modern-resume-theme
+remote_theme: danifranco/modern-resume-theme
 
 sass:
   sass_dir: _sass
@@ -58,3 +54,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-scholar

@@ -1,9 +1,16 @@
-- layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+- layout: 
+  job_title: 2020
+  dates: MICCAI 
+#  quote: >
+#
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    MitoEM Dataset: Large-scale 3D Mitochondria Instance Segmentation from EM Images
+
+    <span style="color:rgb(50, 113, 165)">Donglai Wei, Zudi Lin, <mark>Daniel Franco-Barranco</mark>, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang, Aarush Gupta, Won-Dong Jang, Xueying Wang, Ignacio Arganda-Carreras, Jeff W. Lichtman, Hanspeter Pfister</span>
+
+    <span style="color:rgb(1, 153, 1)">MICCAI 2020</span>
+
+    <a class="button pub" href="https://donglaiw.github.io/page/mitoEM/index.html">Details</a>
+    <a class="button pub" href="danifranco.github.io/publication/MICCAI_2020/wei2020mitoem.bib" download>BibTeX</a>
+    <a class="button pub" href="danifranco.github.io/publication/MICCAI_2020/MICCAI2020_mito_benchmark.pdf">PDF</a>
+    <a class="button pub" href="https://donglaiw.github.io/page/mitoEM/index.html">Code</a>
