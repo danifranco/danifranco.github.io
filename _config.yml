@@ -45,8 +45,8 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-#theme: modern-resume-theme
-remote_theme: danifranco/modern-resume-theme
+# theme: modern-resume-theme
+# remote_theme: danifranco/modern-resume-theme
 
 sass:
   sass_dir: _sass
@@ -54,4 +54,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
- - jekyll-scholar
