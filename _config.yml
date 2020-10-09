@@ -24,7 +24,7 @@ linkedin_username: daniel-franco-barranco-99936596
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Daniel and I'm part-time <mark>HPC System Administrator</mark> at Donostia International Physics Center (DIPC), being part of the management and configuration of the biggest cluster of the Basque Country. The other half of my workday I'm a <mark>PhD Student</mark> at the University of the Basque Country, together with the DIPC, supervised by Ignacio Arganda-Carreras and Arrate Muñoz-Barrutia. 
+  Hi, my name's Daniel and I work as half-time <mark>HPC System Administrator</mark> at Donostia International Physics Center (DIPC), being part of the management and configuration of the biggest cluster of the Basque Country. The other half of my workday I'm a <mark>PhD Student</mark> at the University of the Basque Country, together with the DIPC, advised by Ignacio Arganda-Carreras and Arrate Muñoz-Barrutia. 
   
   My general research area is in Biomedical image processing and Computer Vision, focused in the design and development of novel Deep Learning solutions for the segmentation of organelles in large Electron microscope images and across microscope types and modalities.
 
