@@ -8,10 +8,10 @@
                                                                                 
     <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras</span>
                                                                                 
-    <a class="button pub" href="https://arxiv.org/abs/2104.03577">Details</a>
+    <a class="button pub" onClick="window.open('https://arxiv.org/abs/2104.03577');">Details</a>
     <a class="button pub" href="danifranco.github.io/publication/2021/stable_EM_mito/stable_mito_EM.bib" download>BibTeX</a>
     <a class="button pub" href="danifranco.github.io/publication/2021/stable_EM_mito/2104.03577.pdf">PDF</a>
-    <a class="button pub" href="https://github.com/danifranco/EM_Image_Segmentation">Code</a>
+    <a class="button pub" onClick="window.open('https://github.com/danifranco/EM_Image_Segmentation');">Code</a>
 
 - layout: 
   job_title: 2020
@@ -23,7 +23,7 @@
 
     <span style="color:rgb(50, 113, 165)">Donglai Wei, Zudi Lin, <mark>Daniel Franco-Barranco</mark>, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang, Aarush Gupta, Won-Dong Jang, Xueying Wang, Ignacio Arganda-Carreras, Jeff W. Lichtman, Hanspeter Pfister</span> 
 
-    <a class="button pub" href="https://donglaiw.github.io/page/mitoEM/index.html">Details</a>
+    <a class="button pub" onClick="window.open('https://donglaiw.github.io/proj/mitoEM/index.html');">Details</a>
     <a class="button pub" href="danifranco.github.io/publication/2020/MitoEM/wei2020mitoem.bib" download>BibTeX</a>
     <a class="button pub" href="danifranco.github.io/publication/2020/MitoEM/MICCAI2020_mito_benchmark.pdf">PDF</a>
-    <a class="button pub" href="https://donglaiw.github.io/proj/mitoEM/index.html">Code</a>
+    <a class="button pub" onClick="window.open('https://donglaiw.github.io/proj/mitoEM/index.html');">Code</a>
