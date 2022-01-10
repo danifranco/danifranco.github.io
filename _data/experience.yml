@@ -1,6 +1,19 @@
+- layout:                                                                                                               
+  job_title: 2021                                                                                                       
+  dates: Book chapter
+#  quote: >                                                                                                             
+#                                                                                                                       
+  description: | # this will include new lines to allow paragraphs                                                      
+    <i class="fa-li fa fa-book" aria-hidden="true"></i> Building a Bioimage Analysis Workflow using Deep Learning 
+                                                                                                                        
+    <span style="color:rgb(50, 113, 165)">Estibaliz Gómez-de-Mariscal, <mark>Daniel Franco-Barranco</mark>, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras</span>
+                                                                                                                        
+    <a class="button pub" onClick="window.open('https://github.com/esgomezm/NEUBIAS_chapter_DL_2020');">Book (NA yet)</a>
+    <a class="button pub" onClick="window.open('https://github.com/esgomezm/NEUBIAS_chapter_DL_2020');">Github</a>
+
 - layout:                                                                       
   job_title: 2021
-  dates: ArXiv 
+  dates: Neuroinformatics
 #  quote: >                                                                     
 #                                                                               
   description: | # this will include new lines to allow paragraphs              
@@ -8,7 +21,8 @@
                                                                                 
     <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras</span>
                                                                                 
-    <a class="button pub" onClick="window.open('https://arxiv.org/abs/2104.03577');">Details</a>
+    <a class="button pub" onClick="window.open('https://doi.org/10.1007/s12021-021-09556-1');">Neuroinformatics</a>
+    <a class="button pub" onClick="window.open('https://arxiv.org/abs/2104.03577');">Arxiv</a>
     <a class="button pub" href="https://danifranco.github.io/publication/2021/stable_EM_mito/stable_mito_EM.bib" download>BibTeX</a>
     <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2021/stable_EM_mito/2104.03577.pdf');">PDF</a>
     <a class="button pub" onClick="window.open('https://github.com/danifranco/EM_Image_Segmentation');">Code</a>
