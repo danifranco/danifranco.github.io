@@ -1,10 +1,10 @@
 - layout: top-middle
-  name: EM Image Segmentation
-  link: https://github.com/danifranco/EM_Image_Segmentation
-  github: danifranco/EM_Image_Segmentation
+  name: BiaPy
+  link: https://github.com/danifranco/BiaPy
+  github: danifranco/BiaPy
   quote: >
   description: | # this will include new lines to allow paragraphs              
-    This project contains a guide to make Semantic Segmentation in Electron Microscopy images using Deep Learning networks such as U-Net (2D/3D), Residual U-Net (2D/3D), Attention based U-Net, FCN or Tiramisu. See [docs](https://em-image-segmentation.readthedocs.io) for more info.
+    BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows. The library provides an easy way to create image processing pipelines that are commonly used in the analysis of biology microscopy images in 2D and 3D. Specifically, BiaPy contains ready-to-use solutions for tasks such as semantic segmentation, instance segmentation, object detection, image denoising, single image super-resolution, self-supervised learning and image classification. The source code is based on Keras/TensorFlow as the backend. See [docs](https://biapy.readthedocs.io) for more info.
 
 - layout: top-middle
   name: DIPC Control and Report Application in Bash
