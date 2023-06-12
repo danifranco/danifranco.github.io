@@ -1,54 +1,169 @@
 # Site
 repository: danifranco/danifranco.github.io
-favicon: images/favicon2.png
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Content configuration version
+version: 2
 
 # Personal info
 name: Daniel Franco-Barranco
-title: HPC System Administrator and PhD Candidate
+title: HPC Resources Technician and PhD Candidate
 email: daniel.franco@dipc.org
-#website: www.github.com/danifranco
+
+# Dark Mode (true/false/never)
+darkmode: false
 
 # Social links
 twitter_username: danifranco93
 github_username:  danifranco
-schoolar_username: jVEfpY4AAAAJ
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+googlescholar_username: jVEfpY4AAAAJ
 linkedin_username: daniel-franco-barranco-99936596
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
+orcid_username: 0000-0002-1109-110X
 
-# About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Daniel and I work as half-time <mark>HPC System Administrator</mark> at Donostia International Physics Center (DIPC), being part of the management and configuration of the biggest cluster of the Basque Country. The other half of my workday I'm a <mark>PhD Candidate</mark> at the University of the Basque Country, together with the DIPC, advised by Prof. Ignacio Arganda-Carreras and Prof. Arrate Muñoz-Barrutia. 
+about_content: | 
+  Hi, my name's Daniel and I work as half-time <mark>HPC Resources Technician</mark> at Donostia International Physics Center (DIPC), being part of the management and configuration of the biggest cluster of the Basque Country. The other half of my workday I'm a <mark>PhD Candidate</mark> at the University of the Basque Country, together with the DIPC, advised by Prof. Ignacio Arganda-Carreras and Prof. Arrate Muñoz-Barrutia. 
   
   My general research area is in Biomedical image processing and Computer Vision, focused in the design and development of novel Deep Learning solutions for the segmentation of organelles in large Electron microscope images and across microscope types and modalities.
 
-# Experience Section
-experience_title: Publications
 
-# Projects Section
-# projects_title: Projects
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border:  
+        title: 2019 - present 
+        description: |
+          PhD Candidate at University of the Basque Country (UPV/EHU)
+      - layout: left
+        border:  
+        title: 2015 - present 
+        description: | 
+          HPC Resources Technician at Donostia International Physics Center (DIPC)
+      - layout: left
+        border:  
+        title: 2022 (6 months)
+        description: | 
+          PhD Intern at Harvard, advised by Prof. Donglai Wei and Prof. Hanspeter Pfister
+      - layout: left
+        border:  
+        title: 2018 - 2019 (1 year)
+        description: | 
+          Master's degree in Computational Engineering and Intelligent Systems 
+      - layout: left
+        border:  
+        title: 2011 - 2015 (4 years)
+        description: | 
+          Bachelor's degree in Computer Engineering
+      - layout: left
+        border:  
+        title: 2014 (6 months)
+        description: | 
+          Company practices at Donostia International Physics Center (DIPC)
+  - title: Publications
+    layout: list
+    content:
+      - layout: 
+        title: "2023"
+        sub_title: TechRxiv
+        description: | 
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>Current Progress and Challenges in Large-scale 3D Mitochondria Instance Segmentation
 
-# Education Section
-# educaton_title: Education
+          <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Zudi Lin, Won-Dong Jang, Xueying Wang, Qijia Shen, Wenjie Yin, Yutian Fan, Mingxing Li, Chang Chen, Zhiwei Xiong, Rui Xin, Hao Liu, Huai Chen, Zhili Li, Jie Zhao, Xuejin Chen, Constantin Pape, Ryan Conrad, Jozefus De Folter, Luke Nightingale, Martin Jones, Yanling Liu, Dorsa Ziaei, Stephan Huschauer, Ignacio Arganda-Carreras, Hanspeter Pfister, Donglai Wei
 
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
+          <a class="button pub" onClick="window.open('https://www.techrxiv.org/articles/preprint/Current_Progress_and_Challenges_in_Large-scale3D_Mitochondria_Instance_Segmentation/22116785');">TechRxiv</a>
+          <a class="button pub" href="https://danifranco.github.io/publication/2023/MitoEM_TMI/MitoEM_TMI.bib" download>BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/MitoEM_TMI/MitoEM_Challenge.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://github.com/danifranco/TIMISE');">Code</a>
+          <br> <br>
+      - layout:
+        title: "2023"
+        sub_title: bioRxiv
+        description: | 
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>CartoCell, a high-throughput pipeline for accurate 3D image analysis, unveils cell morphology patterns in epithelial cysts
 
-darkmode: false
+          <span style="color:rgb(50, 113, 165)">Jesús A. Andrés-San Román, Carmen Gordillo-Vazquez, <mark>Daniel Franco-Barranco</mark>, Laura Morato, Antonio Tagua, Pablo Vicente-Munuera, Ana M. Palacios, Maria P. Gavilan, Valentina Annese, Pedro Gómez-Gálvez, Ignacio Arganda-Carreras, Luis M. Escudero
+
+          <a class="button pub" onClick="window.open('https://www.biorxiv.org/content/biorxiv/early/2023/01/06/2023.01.05.522724.full.pdf');">bioRxiv</a>
+          <a class="button pub" href="https://danifranco.github.io/publication/2023/cartocell/cartocell.bib" download>BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/cartocell/2023.01.05.522724.full.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://github.com/danifranco/BiaPy');">Code</a>
+          <br> <br>
+      - layout:
+        title: "2022"
+        sub_title: CMPB
+        description: | 
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Deep learning based domain adaptation for mitochondria segmentation on EM volumes
+
+          <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Julio Pastor-Tronch, Aitor González-Marfil, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras</span>
+
+          <a class="button pub" onClick="window.open('https://doi.org/10.1016/j.cmpb.2022.106949');">CMPB</a>
+          <a class="button pub" onClick="window.open('https://arxiv.org/abs/2202.10773');">arXiv</a>
+          <a class="button pub" href="https://danifranco.github.io/publication/2022/domain_adap/domain_adap.bib" download>BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2022/domain_adap/Domain_adaptation_for_deep_learning_based_segmentation_of_EM_volumes.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2022/domain_adap/SUP_Domain_adaptation_for_deep_learning_based_segmentation_of_EM_volumes.pdf');">Sup. material</a>
+          <a class="button pub" onClick="window.open('https://github.com/danifranco/em_domain_adaptation');">Code</a>
+          <br> <br>
+      - layout:
+        title: "2022"
+        sub_title: Cell Systems
+        description: | 
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>A quantitative biophysical principle to explain the 3D cellular connectivity in curved epithelia
+
+          <span style="color:rgb(50, 113, 165)">Pedro Gómez-Gálvez, Pablo Vicente-Munuera, Samira Anbari, Antonio Tagua, Carmen Gordillo-Vázquez, Jesús A. Andrés-San Román, <mark>Daniel Franco-Barranco</mark>, Ana M. Palacios, Antonio Velasco, Carlos Capitán-Agudo, Clara Grima, Valentina Annese, Ignacio Arganda-Carreras, Rafael Robles, Alberto Márquez, Javier Buceta, Luis M. Escudero
+
+          <a class="button pub" onClick="window.open('https://www.sciencedirect.com/science/article/abs/pii/S2405471222002733');">Cell Systems</a>
+          <a class="button pub" onClick="window.open('https://doi.org/10.1101/2020.02.19.955567');">bioRxiv</a>
+          <a class="button pub" href="https://danifranco.github.io/publication/2022/ephitelia/ephitelia.bib" download>BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2022/ephitelia/2020.02.19.955567v3.full.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://github.com/danifranco/BiaPy');">Code</a>
+          <br> <br>
+      - layout:                                                                                                               
+        title: "2021"                                                                                                       
+        sub_title: Computer Methods and Programs <br> in Biomedicine                                                                                                                   
+        description: |                                                       
+          <i class="fa-li fa fa-book" aria-hidden="true"></i> Building a Bioimage Analysis Workflow using Deep Learning 
+                                                                                                                              
+          <span style="color:rgb(50, 113, 165)">Estibaliz Gómez-de-Mariscal, <mark>Daniel Franco-Barranco</mark>, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras</span>
+                                                                                                                              
+          <a class="button pub" onClick="window.open('https://library.oapen.org/bitstream/handle/20.500.12657/58615/1/978-3-030-76394-7.pdf#page=66');">Book</a>
+          <a class="button pub" onClick="window.open('https://github.com/esgomezm/NEUBIAS_chapter_DL_2020');">Github</a>
+          <br> <br>
+      - layout:                                                                       
+        title: "2021"
+        sub_title: Neuroinformatics                                                                        
+        description: |               
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Stable deep neural network architectures for mitochondria segmentation on electron microscopy volumes
+                                                                                      
+          <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras</span>
+                                                                                      
+          <a class="button pub" onClick="window.open('https://doi.org/10.1007/s12021-021-09556-1');">Neuroinformatics</a>
+          <a class="button pub" onClick="window.open('https://arxiv.org/abs/2104.03577');">arXiv</a>
+          <a class="button pub" href="https://danifranco.github.io/publication/2021/stable_EM_mito/stable_mito_EM.bib" download>BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2021/stable_EM_mito/2104.03577.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://github.com/danifranco/BiaPy');">Code</a>
+          <br> <br>
+      - layout: 
+        title: "2020"
+        sub_title: MICCAI 
+        description: | 
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> MitoEM Dataset: Large-scale 3D Mitochondria Instance Segmentation from EM Images
+
+          <span style="color:rgb(50, 113, 165)">Donglai Wei, Zudi Lin, <mark>Daniel Franco-Barranco</mark>, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang, Aarush Gupta, Won-Dong Jang, Xueying Wang, Ignacio Arganda-Carreras, Jeff W. Lichtman, Hanspeter Pfister</span> 
+
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2020/MitoEM/MICCAI2020_mito_benchmark.pdf');">PDF</a>
+          <a class="button pub" href="https://danifranco.github.io/publication/2020/MitoEM/wei2020mitoem.bib" download>BibTeX</a>
+          <a class="button pub" onClick="window.open('https://donglaiw.github.io/proj/mitoEM/index.html');">Code</a>
+          <br> <br>
 
 # Footer
 footer_show_references: true
+# references_title: References on request (Override references text)
 
 # Build settings
-# theme: modern-resume-theme
-# remote_theme: danifranco/modern-resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -56,3 +171,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
