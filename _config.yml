@@ -18,7 +18,7 @@ twitter_username: danifranco93
 github_username:  danifranco
 googlescholar_username: jVEfpY4AAAAJ
 linkedin_username: daniel-franco-barranco-99936596
-orcid_username: 0000-0002-1109-110X
+cv: Daniel_Franco_Barranco_CV.pdf
 
 about_profile_image: images/profile.jpg
 about_content: | 
@@ -65,6 +65,19 @@ content:
     layout: list
     content:
       - layout: 
+        title: "2024"
+        sub_title: bioRxiv
+        description: | 
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>BiaPy: A unified framework for versatile bioimage analysis with deep learning
+
+          <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Jesús A Andrés-San Román, Ivan Hidalgo-Cenalmor, Lenka Backová, Aitor González-Marfil, Clément Caporal, Anatole Chessel, Pedro Gómez-Gálvez, Luis M Escudero, Donglai Wei, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras
+
+          <a class="button pub" onClick="window.open('https://www.biorxiv.org/content/10.1101/2024.02.03.576026v1');">bioRxiv</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/biapy/biapy_cite.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/biapy/2024.02.03.576026.full');">PDF</a>
+          <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
+          <br> <br>
+      - layout: 
         title: "2023"
         sub_title: arXiv
         description: | 
@@ -73,9 +86,9 @@ content:
           <span style="color:rgb(50, 113, 165)">Daniel López-Cano, Jens Stücker, Marcos Pellejero Ibañez, Raúl E. Angulo, <mark>Daniel Franco-Barranco</mark>
 
           <a class="button pub" onClick="window.open('https://arxiv.org/abs/2311.12110');">arXiv</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/cosmos/2311.12110.bib');">BibTeX</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/cosmos/2311.12110.pdf');">PDF</a>
-          <a class="button pub" onClick="window.open('https://github.com/danifranco/BiaPy');">Code</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/cosmos/2311.12110.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/cosmos/2311.12110.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
           <br> <br>
       - layout: 
         title: "2023"
@@ -86,9 +99,9 @@ content:
           <span style="color:rgb(50, 113, 165)">Lenka Backová, Guillermo Bengoetxea, Svana Rogalla, <mark>Daniel Franco-Barranco</mark>, Jérôme Solon, Ignacio Arganda-Carreras
 
           <a class="button pub" onClick="window.open('https://ieeexplore.ieee.org/abstract/document/10230571');">IEEE ISBI</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/biofisika/10230571.bib');">BibTeX</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/biofisika/10230571.pdf');">PDF</a>
-          <a class="button pub" onClick="window.open('https://github.com/danifranco/BiaPy');">Code</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/biofisika/10230571.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/biofisika/10230571.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
           <br> <br>
       - layout: 
         title: "2023"
@@ -99,9 +112,9 @@ content:
           <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Jesús A Andrés-San Román, Pedro Gómez-Gálvez, Luis M Escudero, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras
 
           <a class="button pub" onClick="window.open('https://ieeexplore.ieee.org/abstract/document/10230593');">IEEE ISBI</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/biapy/biapy.bib');">BibTeX</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/biapy/biapy.pdf');">PDF</a>
-          <a class="button pub" onClick="window.open('https://github.com/danifranco/BiaPy');">Code</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/biapy/biapy.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/biapy/biapy.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
           <br> <br>
       - layout: 
         title: "2023"
@@ -112,8 +125,8 @@ content:
           <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Zudi Lin, Won-Dong Jang, Xueying Wang, Qijia Shen, Wenjie Yin, Yutian Fan, Mingxing Li, Chang Chen, Zhiwei Xiong, Rui Xin, Hao Liu, Huai Chen, Zhili Li, Jie Zhao, Xuejin Chen, Constantin Pape, Ryan Conrad, Jozefus De Folter, Luke Nightingale, Martin Jones, Yanling Liu, Dorsa Ziaei, Stephan Huschauer, Ignacio Arganda-Carreras, Hanspeter Pfister, Donglai Wei
 
           <a class="button pub" onClick="window.open('https://ieeexplore.ieee.org/document/10266382');">TMI</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/MitoEM_TMI/MitoEM_TMI.bib');">BibTeX</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/MitoEM_TMI/MitoEM_Challenge.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/MitoEM_TMI/MitoEM_TMI.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/MitoEM_TMI/MitoEM_Challenge.pdf');">PDF</a>
           <a class="button pub" onClick="window.open('https://github.com/danifranco/TIMISE');">Code</a>
           <br> <br>
       - layout:
@@ -125,9 +138,9 @@ content:
           <span style="color:rgb(50, 113, 165)">Jesús A. Andrés-San Román, Carmen Gordillo-Vazquez, <mark>Daniel Franco-Barranco</mark>, Laura Morato, Antonio Tagua, Pablo Vicente-Munuera, Ana M. Palacios, Maria P. Gavilan, Valentina Annese, Pedro Gómez-Gálvez, Ignacio Arganda-Carreras, Luis M. Escudero
 
           <a class="button pub" onClick="window.open('https://www.cell.com/cell-reports-methods/pdf/S2667-2375(23)00249-7.pdf');">Cell Reports Methods</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/cartocell/cartocell.bib');">BibTeX</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2023/cartocell/cartocell.pdf');">PDF</a>
-          <a class="button pub" onClick="window.open('https://github.com/danifranco/BiaPy');">Code</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/cartocell/cartocell.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/cartocell/cartocell.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
           <br> <br>
       - layout:
         title: "2022"
@@ -139,9 +152,9 @@ content:
 
           <a class="button pub" onClick="window.open('https://doi.org/10.1016/j.cmpb.2022.106949');">CMPB</a>
           <a class="button pub" onClick="window.open('https://arxiv.org/abs/2202.10773');">arXiv</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2022/domain_adap/domain_adap.bib');">BibTeX</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2022/domain_adap/Domain_adaptation_for_deep_learning_based_segmentation_of_EM_volumes.pdf');">PDF</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2022/domain_adap/SUP_Domain_adaptation_for_deep_learning_based_segmentation_of_EM_volumes.pdf');">Sup. material</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2022/domain_adap/domain_adap.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2022/domain_adap/Domain_adaptation_for_deep_learning_based_segmentation_of_EM_volumes.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2022/domain_adap/SUP_Domain_adaptation_for_deep_learning_based_segmentation_of_EM_volumes.pdf');">Sup. material</a>
           <a class="button pub" onClick="window.open('https://github.com/danifranco/em_domain_adaptation');">Code</a>
           <br> <br>
       - layout:
@@ -154,9 +167,9 @@ content:
 
           <a class="button pub" onClick="window.open('https://www.sciencedirect.com/science/article/abs/pii/S2405471222002733');">Cell Systems</a>
           <a class="button pub" onClick="window.open('https://doi.org/10.1101/2020.02.19.955567');">bioRxiv</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2022/ephitelia/ephitelia.bib');">BibTeX</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2022/ephitelia/2020.02.19.955567v3.full.pdf');">PDF</a>
-          <a class="button pub" onClick="window.open('https://github.com/danifranco/BiaPy');">Code</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2022/ephitelia/ephitelia.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2022/ephitelia/2020.02.19.955567v3.full.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
           <br> <br>
       - layout:                                                                                                               
         title: "2021"                                                                                                       
@@ -179,9 +192,9 @@ content:
                                                                                       
           <a class="button pub" onClick="window.open('https://doi.org/10.1007/s12021-021-09556-1');">Neuroinformatics</a>
           <a class="button pub" onClick="window.open('https://arxiv.org/abs/2104.03577');">arXiv</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2021/stable_EM_mito/stable_mito_EM.bib');">BibTeX</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2021/stable_EM_mito/2104.03577.pdf');">PDF</a>
-          <a class="button pub" onClick="window.open('https://github.com/danifranco/BiaPy');">Code</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2021/stable_EM_mito/stable_mito_EM.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2021/stable_EM_mito/2104.03577.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
           <br> <br>
       - layout: 
         title: "2020"
@@ -191,8 +204,8 @@ content:
 
           <span style="color:rgb(50, 113, 165)">Donglai Wei, Zudi Lin, <mark>Daniel Franco-Barranco</mark>, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang, Aarush Gupta, Won-Dong Jang, Xueying Wang, Ignacio Arganda-Carreras, Jeff W. Lichtman, Hanspeter Pfister</span> 
 
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2020/MitoEM/MICCAI2020_mito_benchmark.pdf');">PDF</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/publication/2020/MitoEM/wei2020mitoem.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2020/MitoEM/MICCAI2020_mito_benchmark.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2020/MitoEM/wei2020mitoem.bib');">BibTeX</a>
           <a class="button pub" onClick="window.open('https://donglaiw.github.io/proj/mitoEM/index.html');">Code</a>
           <br> <br>
 
