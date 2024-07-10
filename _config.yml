@@ -68,6 +68,19 @@ content:
         title: "2024"
         sub_title: bioRxiv
         description: | 
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>Self-supervised Vision Transformers for image-to-image labeling: a BiaPy solution to the LightMyCells Challenge
+
+          <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Aitor González-Marfil, Ignacio Arganda-Carreras
+
+          <a class="button pub" onClick="window.open('https://www.biorxiv.org/content/10.1101/2024.04.22.590525v1.abstract');">bioRxiv</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/lightmycells/lightmycells_biapy_citation.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/lightmycells/2024.04.22.590525v1.full.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
+          <br> <br>
+      - layout: 
+        title: "2024"
+        sub_title: bioRxiv
+        description: | 
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>BiaPy: A unified framework for versatile bioimage analysis with deep learning
 
           <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Jesús A Andrés-San Román, Ivan Hidalgo-Cenalmor, Lenka Backová, Aitor González-Marfil, Clément Caporal, Anatole Chessel, Pedro Gómez-Gálvez, Luis M Escudero, Donglai Wei, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras
@@ -79,13 +92,13 @@ content:
           <br> <br>
       - layout: 
         title: "2023"
-        sub_title: arXiv
+        sub_title: A&A
         description: | 
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>Characterizing Structure Formation through Instance Segmentation
 
           <span style="color:rgb(50, 113, 165)">Daniel López-Cano, Jens Stücker, Marcos Pellejero Ibañez, Raúl E. Angulo, <mark>Daniel Franco-Barranco</mark>
 
-          <a class="button pub" onClick="window.open('https://arxiv.org/abs/2311.12110');">arXiv</a>
+          <a class="button pub" onClick="window.open('https://www.aanda.org/articles/aa/abs/2024/05/aa48965-23/aa48965-23.html');">A&A</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/cosmos/2311.12110.bib');">BibTeX</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2023/cosmos/2311.12110.pdf');">PDF</a>
           <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
@@ -151,7 +164,6 @@ content:
           <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Julio Pastor-Tronch, Aitor González-Marfil, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras</span>
 
           <a class="button pub" onClick="window.open('https://doi.org/10.1016/j.cmpb.2022.106949');">CMPB</a>
-          <a class="button pub" onClick="window.open('https://arxiv.org/abs/2202.10773');">arXiv</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2022/domain_adap/domain_adap.bib');">BibTeX</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2022/domain_adap/Domain_adaptation_for_deep_learning_based_segmentation_of_EM_volumes.pdf');">PDF</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2022/domain_adap/SUP_Domain_adaptation_for_deep_learning_based_segmentation_of_EM_volumes.pdf');">Sup. material</a>
@@ -166,7 +178,6 @@ content:
           <span style="color:rgb(50, 113, 165)">Pedro Gómez-Gálvez, Pablo Vicente-Munuera, Samira Anbari, Antonio Tagua, Carmen Gordillo-Vázquez, Jesús A. Andrés-San Román, <mark>Daniel Franco-Barranco</mark>, Ana M. Palacios, Antonio Velasco, Carlos Capitán-Agudo, Clara Grima, Valentina Annese, Ignacio Arganda-Carreras, Rafael Robles, Alberto Márquez, Javier Buceta, Luis M. Escudero
 
           <a class="button pub" onClick="window.open('https://www.sciencedirect.com/science/article/abs/pii/S2405471222002733');">Cell Systems</a>
-          <a class="button pub" onClick="window.open('https://doi.org/10.1101/2020.02.19.955567');">bioRxiv</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2022/ephitelia/ephitelia.bib');">BibTeX</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2022/ephitelia/2020.02.19.955567v3.full.pdf');">PDF</a>
           <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
@@ -191,7 +202,6 @@ content:
           <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras</span>
                                                                                       
           <a class="button pub" onClick="window.open('https://doi.org/10.1007/s12021-021-09556-1');">Neuroinformatics</a>
-          <a class="button pub" onClick="window.open('https://arxiv.org/abs/2104.03577');">arXiv</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2021/stable_EM_mito/stable_mito_EM.bib');">BibTeX</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2021/stable_EM_mito/2104.03577.pdf');">PDF</a>
           <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
