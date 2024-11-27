@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Daniel Franco-Barranco
-title: HPC Resources Technician and PhD Candidate
+title: Postdoctoral Scientist
 email: daniel.franco@dipc.org
 
 # Dark Mode (true/false/never)
@@ -22,9 +22,13 @@ cv: Daniel_Franco_Barranco_CV.pdf
 
 about_profile_image: images/profile.jpg
 about_content: | 
-  Hi, my name's Daniel and I work as half-time <mark>HPC Resources Technician</mark> at Donostia International Physics Center (DIPC), being part of the management and configuration of the biggest cluster of the Basque Country. The other half of my workday I'm a <mark>PhD Candidate</mark> at the University of the Basque Country, together with the DIPC, advised by <a onClick="window.open('https://www.ikerbasque.net/en/ignacio-arganda-carreras');">Prof. Ignacio Arganda-Carreras</a> and <a onClick="window.open('https://image.hggm.es/es/arrate-munoz');">Prof. Arrate Muñoz-Barrutia</a>. 
-  
-  My general research area is in Biomedical image processing and Computer Vision, focused in the design and development of novel Deep Learning solutions for the segmentation of organelles in large Electron microscope images and across microscope types and modalities.
+  Daniel Franco-Barranco is a dedicated researcher specializing in biomedical image processing and computer vision, with a primary focus on the development of deep learning solutions for the segmentation of organelles in large-scale and multimodal electron microscopy images.
+
+  He earned his Ph.D. in Computer Science from the University of the Basque Country (UPV/EHU) under the mentorship of Professors <a onClick="window.open('https://www.ikerbasque.net/en/ignacio-arganda-carreras');">Prof. Ignacio Arganda-Carreras</a> and <a onClick="window.open('https://image.hggm.es/es/arrate-munoz');">Prof. Arrate Muñoz-Barrutia</a>. During his doctoral studies, he also worked as an HPC Resources Technician at the Donostia International Physics Center (DIPC), where he managed and configured the largest computational cluster in the Basque Country.
+
+  In 2022, Daniel completed a six-month research internship at Harvard University, supervised by Professors <a onClick="window.open('https://scholar.google.com/citations?user=xF2mhDoAAAAJ&hl=en');">Donglai Wei</a> and <a onClick="window.open('https://scholar.google.com/citations?user=VWX-GMAAAAAJ&hl=en');">Hanspeter Pfister</a>.
+
+  Currently, he is a Postdoctoral Scientist in <a onClick="window.open('https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/albert-cardona/');">Dr. Albert Cardona’s group</a> at the MRC Laboratory of Molecular Biology (LMB). His research focuses on developing automated techniques for mapping connectomes from volumetric electron microscopy data. This work aims to elucidate the neuronal basis of behavior by comparing connectomes across experimental conditions, developmental stages, and species. Daniel’s role involves designing novel machine learning approaches for computer vision, applying these methods at scale across multiple brain volumes, and contributing to the scientific community through presentations, publications, and the mentorship of junior researchers.
 
 
 content:
@@ -33,12 +37,17 @@ content:
     content:
       - layout: left
         border:  
-        title: 2019 - present 
+        title: 2024 - present
         description: |
-          PhD Candidate at University of the Basque Country (UPV/EHU)
+          Postdoctoral Scientist in Cardona’s lab at MRC Laboratory of Molecular Biology (LMB) 
       - layout: left
         border:  
-        title: 2015 - present 
+        title: 2019 - 2024 (4 years, 11 months) 
+        description: |
+          PhD at University of the Basque Country (UPV/EHU)
+      - layout: left
+        border:  
+        title: 2015 - 2024 (9 years, 1 month) 
         description: | 
           HPC Resources Technician at Donostia International Physics Center (DIPC)
       - layout: left
@@ -66,26 +75,37 @@ content:
     content:
       - layout: 
         title: "2024"
-        sub_title: bioRxiv
+        sub_title: Nature Machine Intelligence
+        description: | 
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>A deep learning method that identifies cellular heterogeneity using nanoscale nuclear features
+
+          <span style="color:rgb(50, 113, 165)">Davide Carnevali, Limei Zhong, Esther González-Almela, Carlotta Viana, Mikhail Rotkevich, Aiping Wang, <mark>Daniel Franco-Barranco</mark>, Aitor Gonzalez-Marfil, Maria Victoria Neguembor, Alvaro Castells-Garcia, Ignacio Arganda-Carreras, Maria Pia Cosma
+
+          <a class="button pub" onClick="window.open('https://www.nature.com/articles/s42256-024-00883-x');">Nature</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/ainu/AINU.bib');">BibTeX</a>
+          <br> <br>
+      - layout: 
+        title: "2024"
+        sub_title: IEEE ISBI
         description: | 
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>Self-supervised Vision Transformers for image-to-image labeling: a BiaPy solution to the LightMyCells Challenge
 
           <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Aitor González-Marfil, Ignacio Arganda-Carreras
 
-          <a class="button pub" onClick="window.open('https://www.biorxiv.org/content/10.1101/2024.04.22.590525v1.abstract');">bioRxiv</a>
+          <a class="button pub" onClick="window.open('https://ieeexplore.ieee.org/document/10635818/');">ISBI 2024</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/lightmycells/lightmycells_biapy_citation.bib');">BibTeX</a>
-          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/lightmycells/2024.04.22.590525v1.full.pdf');">PDF</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/lightmycells/SSL_lightmycells_Daniel_Franco.pdf');">PDF</a>
           <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
           <br> <br>
       - layout: 
         title: "2024"
         sub_title: bioRxiv
         description: | 
-          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>BiaPy: A unified framework for versatile bioimage analysis with deep learning
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>BiaPy: Accessible deep learning on bioimages
 
           <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Jesús A Andrés-San Román, Ivan Hidalgo-Cenalmor, Lenka Backová, Aitor González-Marfil, Clément Caporal, Anatole Chessel, Pedro Gómez-Gálvez, Luis M Escudero, Donglai Wei, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras
 
-          <a class="button pub" onClick="window.open('https://www.biorxiv.org/content/10.1101/2024.02.03.576026v1');">bioRxiv</a>
+          <a class="button pub" onClick="window.open('https://www.biorxiv.org/content/10.1101/2024.02.03.576026v2');">bioRxiv</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/biapy/biapy_cite.bib');">BibTeX</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/biapy/2024.02.03.576026.full');">PDF</a>
           <a class="button pub" onClick="window.open('https://biapyx.github.io/');">Code</a>
