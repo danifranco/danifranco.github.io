@@ -99,12 +99,13 @@ content:
           <br> <br>
       - layout: 
         title: "2024"
-        sub_title: bioRxiv
+        sub_title: Nature Methods
         description: | 
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>BiaPy: Accessible deep learning on bioimages
 
           <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Jesús A Andrés-San Román, Ivan Hidalgo-Cenalmor, Lenka Backová, Aitor González-Marfil, Clément Caporal, Anatole Chessel, Pedro Gómez-Gálvez, Luis M Escudero, Donglai Wei, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras
-
+          
+          <a class="button pub" onClick="window.open('https://www.nature.com/articles/s41592-025-02699-y');">Nature Methods</a>
           <a class="button pub" onClick="window.open('https://www.biorxiv.org/content/10.1101/2024.02.03.576026v2');">bioRxiv</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/biapy/biapy_cite.bib');">BibTeX</a>
           <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2024/biapy/2024.02.03.576026.full');">PDF</a>
