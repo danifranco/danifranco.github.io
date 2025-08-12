@@ -74,6 +74,30 @@ content:
     layout: list
     content:
       - layout: 
+        title: "2025"
+        sub_title: arXiv
+        description: | 
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>SAMJ: Fast Image Annotation on ImageJ/Fiji via Segment Anything Model
+
+          <span style="color:rgb(50, 113, 165)">Carlos Garcia-Lopez-de-Haro, Caterina Fuster-Barcelo, Curtis T Rueden, Jonathan Heras, Vladimir Ulman, <mark>Daniel Franco-Barranco</mark>, Adrian Ines, Kevin W Eliceiri, Jean-Christophe Olivo-Marin, Jean-Yves Tinevez, Daniel Sage, Arrate Munoz-Barrutia
+
+          <a class="button pub" onClick="window.open('https://arxiv.org/abs/2506.02783');">arXiv</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2025/samj/SAMJ_citation.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2025/samj/SAMJ_paper.pdf');">PDF</a>
+          <br> <br>
+      - layout: 
+        title: "2025"
+        sub_title: IEEE ISBI
+        description: | 
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>Super-Resolution Benchmarking for 3D Image-to-Image Fusion Problem
+
+          <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Aitor González-Marfil, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras</span>
+
+          <a class="button pub" onClick="window.open('https://ieeexplore.ieee.org/abstract/document/10981218/');">IEEE ISBI</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2025/fusemycells/fusemycells_SR_citation.bib');">BibTeX</a>
+          <a class="button pub" onClick="window.open('https://danifranco.github.io/files/2025/fusemycells/fusemycells_SR_paper.pdf');">PDF</a>
+          <br> <br>
+      - layout: 
         title: "2024"
         sub_title: Nature Machine Intelligence
         description: | 
